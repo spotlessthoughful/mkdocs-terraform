@@ -1,1 +1,1 @@
-# mkdocs-terraform
+documentation[documentation]: https://spotlessthoughful.github.io/mkdocs-terraform/
